@@ -13,6 +13,20 @@
 		5998B77225F6218D0002110D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5998B77025F6218D0002110D /* Main.storyboard */; };
 		5998B77425F6218E0002110D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5998B77325F6218E0002110D /* Assets.xcassets */; };
 		5998B77725F6218E0002110D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5998B77525F6218E0002110D /* LaunchScreen.storyboard */; };
+		5998B78025F836FD0002110D /* GarageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B77F25F836FD0002110D /* GarageViewController.swift */; };
+		5998B78325F83DE30002110D /* MasterBedroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B78225F83DE30002110D /* MasterBedroomViewController.swift */; };
+		5998B78625F83DF70002110D /* GuestBedroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B78525F83DF70002110D /* GuestBedroomViewController.swift */; };
+		5998B78F25F83E5C0002110D /* MasterBathroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B78E25F83E5C0002110D /* MasterBathroomViewController.swift */; };
+		5998B79225F83E700002110D /* GuestBathroomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B79125F83E700002110D /* GuestBathroomViewController.swift */; };
+		5998B79525F83E950002110D /* CentralACViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B79425F83E950002110D /* CentralACViewController.swift */; };
+		5998B79825F868760002110D /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B79725F868760002110D /* ColorExtension.swift */; };
+		5998B79D25FB51CF0002110D /* OvenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B79C25FB51CF0002110D /* OvenViewController.swift */; };
+		5998B7A025FB51E80002110D /* DishWasherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B79F25FB51E80002110D /* DishWasherViewController.swift */; };
+		5998B7A325FB521B0002110D /* FridgeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B7A225FB521B0002110D /* FridgeViewController.swift */; };
+		5998B7A625FB523C0002110D /* WashingMachineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B7A525FB523C0002110D /* WashingMachineViewController.swift */; };
+		5998B7A925FB525A0002110D /* DryerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5998B7A825FB525A0002110D /* DryerViewController.swift */; };
+		59D8CCFD25FCBBE0006BD8FC /* AlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59D8CCFB25FCBBE0006BD8FC /* AlertViewController.swift */; };
+		59D8CCFE25FCBBE0006BD8FC /* AlertViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 59D8CCFC25FCBBE0006BD8FC /* AlertViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +38,20 @@
 		5998B77325F6218E0002110D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5998B77625F6218E0002110D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5998B77825F6218E0002110D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5998B77F25F836FD0002110D /* GarageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GarageViewController.swift; sourceTree = "<group>"; };
+		5998B78225F83DE30002110D /* MasterBedroomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterBedroomViewController.swift; sourceTree = "<group>"; };
+		5998B78525F83DF70002110D /* GuestBedroomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuestBedroomViewController.swift; sourceTree = "<group>"; };
+		5998B78E25F83E5C0002110D /* MasterBathroomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterBathroomViewController.swift; sourceTree = "<group>"; };
+		5998B79125F83E700002110D /* GuestBathroomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuestBathroomViewController.swift; sourceTree = "<group>"; };
+		5998B79425F83E950002110D /* CentralACViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CentralACViewController.swift; sourceTree = "<group>"; };
+		5998B79725F868760002110D /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		5998B79C25FB51CF0002110D /* OvenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OvenViewController.swift; sourceTree = "<group>"; };
+		5998B79F25FB51E80002110D /* DishWasherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DishWasherViewController.swift; sourceTree = "<group>"; };
+		5998B7A225FB521B0002110D /* FridgeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FridgeViewController.swift; sourceTree = "<group>"; };
+		5998B7A525FB523C0002110D /* WashingMachineViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WashingMachineViewController.swift; sourceTree = "<group>"; };
+		5998B7A825FB525A0002110D /* DryerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DryerViewController.swift; sourceTree = "<group>"; };
+		59D8CCFB25FCBBE0006BD8FC /* AlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertViewController.swift; sourceTree = "<group>"; };
+		59D8CCFC25FCBBE0006BD8FC /* AlertViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AlertViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +68,8 @@
 		5998B75E25F6218D0002110D = {
 			isa = PBXGroup;
 			children = (
+				59D8CCFB25FCBBE0006BD8FC /* AlertViewController.swift */,
+				59D8CCFC25FCBBE0006BD8FC /* AlertViewController.xib */,
 				5998B76925F6218D0002110D /* Smart Home */,
 				5998B76825F6218D0002110D /* Products */,
 			);
@@ -59,7 +89,19 @@
 				5998B76A25F6218D0002110D /* AppDelegate.swift */,
 				5998B76C25F6218D0002110D /* SceneDelegate.swift */,
 				5998B76E25F6218D0002110D /* ViewController.swift */,
+				5998B77F25F836FD0002110D /* GarageViewController.swift */,
+				5998B79725F868760002110D /* ColorExtension.swift */,
+				5998B78225F83DE30002110D /* MasterBedroomViewController.swift */,
+				5998B78525F83DF70002110D /* GuestBedroomViewController.swift */,
+				5998B78E25F83E5C0002110D /* MasterBathroomViewController.swift */,
+				5998B79125F83E700002110D /* GuestBathroomViewController.swift */,
+				5998B79425F83E950002110D /* CentralACViewController.swift */,
 				5998B77025F6218D0002110D /* Main.storyboard */,
+				5998B7A825FB525A0002110D /* DryerViewController.swift */,
+				5998B7A525FB523C0002110D /* WashingMachineViewController.swift */,
+				5998B7A225FB521B0002110D /* FridgeViewController.swift */,
+				5998B79F25FB51E80002110D /* DishWasherViewController.swift */,
+				5998B79C25FB51CF0002110D /* OvenViewController.swift */,
 				5998B77325F6218E0002110D /* Assets.xcassets */,
 				5998B77525F6218E0002110D /* LaunchScreen.storyboard */,
 				5998B77825F6218E0002110D /* Info.plist */,
@@ -127,6 +169,7 @@
 				5998B77725F6218E0002110D /* LaunchScreen.storyboard in Resources */,
 				5998B77425F6218E0002110D /* Assets.xcassets in Resources */,
 				5998B77225F6218D0002110D /* Main.storyboard in Resources */,
+				59D8CCFE25FCBBE0006BD8FC /* AlertViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,9 +180,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5998B78F25F83E5C0002110D /* MasterBathroomViewController.swift in Sources */,
 				5998B76F25F6218D0002110D /* ViewController.swift in Sources */,
+				5998B7A325FB521B0002110D /* FridgeViewController.swift in Sources */,
+				5998B79D25FB51CF0002110D /* OvenViewController.swift in Sources */,
 				5998B76B25F6218D0002110D /* AppDelegate.swift in Sources */,
+				5998B79825F868760002110D /* ColorExtension.swift in Sources */,
+				5998B78325F83DE30002110D /* MasterBedroomViewController.swift in Sources */,
+				5998B7A025FB51E80002110D /* DishWasherViewController.swift in Sources */,
+				5998B7A925FB525A0002110D /* DryerViewController.swift in Sources */,
 				5998B76D25F6218D0002110D /* SceneDelegate.swift in Sources */,
+				5998B7A625FB523C0002110D /* WashingMachineViewController.swift in Sources */,
+				59D8CCFD25FCBBE0006BD8FC /* AlertViewController.swift in Sources */,
+				5998B79225F83E700002110D /* GuestBathroomViewController.swift in Sources */,
+				5998B78625F83DF70002110D /* GuestBedroomViewController.swift in Sources */,
+				5998B79525F83E950002110D /* CentralACViewController.swift in Sources */,
+				5998B78025F836FD0002110D /* GarageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
